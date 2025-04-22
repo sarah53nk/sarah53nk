@@ -2,6 +2,7 @@
 <img src="https://github.com/sarah53nk/sarah53nk/raw/main/pink2.gif" alt="animated pink-purple gradient line"  width="1000" height="4" />
 <br><br>
 📌 About Me:
+<br><br>
 I’m a Web Developer with expertise in front‑end technologies, some experience in back‑end development, and a growing passion for data‑driven web solutions. I’m currently expanding my skills in Machine Learning and Data Analysis.
 
 
