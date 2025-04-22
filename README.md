@@ -1,4 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=e310a4&center=true&vCenter=true&multiline=true&width=600&lines=Hi%2C+I'm+Sara!+%F0%9F%91%8B;Welcome+to+my+GitHub+page.;Front-End+Developer+%7C+React+Enthusiast+%7C+UI%2FUX+Lover)](https://github.com/sarah53nk)
+[![Typing SVG](https://readme-typing-svg.demolab.com?
+font=Fira+Code&pause=1000&color=e310a4&center=true&vCenter=true&multiline=true&width=600&lines=Hi%2C+I'm+Sara!+%F0%9F%91%8B;Welcome+to+my+GitHub+page.;Front-
+End+Developer+%7C+React+Enthusiast+%7C+UI%2FUX+Lover)](https://github.com/sarah53nk)
+
 
 <!--
 **sarah53nk/sarah53nk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
