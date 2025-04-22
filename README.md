@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=e310a4&center=true&vCenter=true&multiline=true&width=600&lines=Hi%2C+I'm+Sara!;Welcome+to+my+GitHub+page.;FrontEnd+Developer+%7C+React+Enthusiast+%7C+UI%2FUX+Lover&delete=1)](https://github.com/sarah53nk)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=e310a4&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sara!;Welcome+to+my+GitHub+page.;FrontEnd+Developer+%7C+React+Enthusiast+%7C+UI%2FUX+Lover)](https://github.com/sarah53nk)
+
 
 <br><br>
 
