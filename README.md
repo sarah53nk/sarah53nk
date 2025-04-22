@@ -1,9 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=e310a4&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sara!;Welcome+to+my+GitHub+page.)](https://github.com/sarah53nk)
-
-
 <br><br>
+<hr style="border: none; height: 2px; background-color: #e310a4;" />
 
-<hr style="border: 1px solid #e310a4; height: 2px;"/>
 
 
 
