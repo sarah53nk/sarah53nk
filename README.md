@@ -7,7 +7,6 @@ I’m a Web Developer with expertise in front‑end technologies, some experienc
 <br><br>
 **🟣 My Social :**
 <br><br>
-- **LinkedIn:** [Your Name](https://www.linkedin.com/in/yourusername)  
 
 
 
