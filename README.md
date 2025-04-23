@@ -18,7 +18,6 @@ I’m a Web Developer with expertise in front‑end technologies, some experienc
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 <br><br>
-
 **🟣 My Social :**
 <br><br>
 <a href="https://www.kaggle.com/yourkaggleusername" target="_blank">
