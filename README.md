@@ -7,6 +7,13 @@ I’m a Web Developer with expertise in front‑end technologies, some experienc
 <br><br>
 **🟣 My Social :**
 <br><br>
+<a href="https://www.linkedin.com/in/yourlinkedin" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://discord.com/users/yourdiscordid" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-%237289DA.svg?&style=flat&logo=discord&logoColor=white" />
+</a>
+<br><br>
 **🟣 My Skills :**
 <br><br>
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -19,6 +26,8 @@ I’m a Web Developer with expertise in front‑end technologies, some experienc
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+<img src="https://github.com/sarah53nk/sarah53nk/raw/main/pink2.gif" alt="animated pink-purple gradient line"  width="1000" height="4" />
 
 ![Sara's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarah53nk&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarah53nk&layout=compact&theme=radical)
