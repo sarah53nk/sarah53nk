@@ -34,6 +34,7 @@ I’m a Web Developer with expertise in front‑end technologies, some experienc
 
 
 ![Sara's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarah53nk&show_icons=true&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarah53nk&layout=compact&theme=radical)
 
 
