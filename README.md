@@ -7,7 +7,8 @@ I’m a Web Developer with expertise in front‑end technologies, some experienc
 <br><br>
 **🟣 My Social :**
 <br><br>
-
+**🟣 My Skills :**
+<br><br>
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
