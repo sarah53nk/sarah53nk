@@ -21,7 +21,9 @@ I’m a Web Developer with expertise in front‑end technologies, some experienc
 
 **🟣 My Social :**
 <br><br>
-
+<a href="https://www.kaggle.com/yourkaggleusername" target="_blank">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" />
+</a>
 <a href="https://www.linkedin.com/in/yourlinkedin" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" />
 </a>
@@ -29,9 +31,7 @@ I’m a Web Developer with expertise in front‑end technologies, some experienc
   <img src="https://img.shields.io/badge/Discord-%237289DA.svg?&style=flat&logo=discord&logoColor=white" />
 </a>
 <img src="https://github.com/sarah53nk/sarah53nk/raw/main/pink2.gif" alt="animated pink-purple gradient line"  width="1000" height="4" />
-<a href="https://www.kaggle.com/yourkaggleusername" target="_blank">
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" />
-</a>
+
 
 ![Sara's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarah53nk&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarah53nk&layout=compact&theme=radical)
