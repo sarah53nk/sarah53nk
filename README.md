@@ -7,12 +7,8 @@ I’m a Web Developer with expertise in front‑end technologies, some experienc
 <br><br>
 **🟣 My Social :**
 <br><br>
-### 🛠️ Languages and Tools
+![Sara's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarah53nk&show_icons=true&theme=radical)
 
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
 
 
 
