@@ -32,7 +32,6 @@ I’m a Web Developer with expertise in front‑end technologies, some experienc
 <img src="https://github.com/sarah53nk/sarah53nk/raw/main/pink2.gif" alt="animated pink-purple gradient line"  width="1000" height="4" />
 
 
-![Sara's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarah53nk&show_icons=true&theme=radical)
 
 
 
