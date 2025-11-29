@@ -34,6 +34,7 @@ I’m a Web Developer with expertise in front‑end technologies, some experienc
 <img src="https://github.com/sarah53nk/sarah53nk/raw/main/pink2.gif" alt="animated pink-purple gradient line"  width="1000" height="4" />
 <img src="https://github.com/sarah53nk/sarah53nk/raw/main/pink2.gif" alt="animated pink-purple gradient line"  width="1000" height="4" />
 
+<img src="https://github.com/sarah53nk/sarah53nk/raw/main/pink2.gif" alt="animated pink-purple gradient line"  width="1000" height="4" />
 
 
 
