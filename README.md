@@ -40,15 +40,18 @@ I’m currently expanding my skills in Machine Learning and Data Analysis.
 
 ## 🟣 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarah53nk&show_icons=true&theme=radical&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarah53nk&layout=compact&theme=radical&hide_border=true" height="160" />
+
+  
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sarah53nk&show_icons=true&theme=radical&hide_border=true" height="160" />
+
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sarah53nk&layout=compact&theme=radical&hide_border=true" height="160" />
+
 </p>
 
 <br>
 
 <img src="https://github.com/sarah53nk/sarah53nk/raw/main/pink2.gif" width="1000" height="4" />
 <img src="https://github.com/sarah53nk/sarah53nk/raw/main/pink2.gif" width="1000" height="4" />
-
 
 <!--
 **sarah53nk/sarah53nk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
