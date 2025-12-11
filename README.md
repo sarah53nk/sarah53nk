@@ -41,9 +41,7 @@ I’m currently expanding my skills in Machine Learning and Data Analysis.
 <img src="https://github.com/sarah53nk/sarah53nk/raw/main/pink2.gif" width="1000" height="4" />
 <img src="https://github.com/sarah53nk/sarah53nk/raw/main/pink2.gif" width="1000" height="4" />
 
-<p align="center">
-  <img src="https://github.com/sarah53nk/sarah53nk/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+
 
 
 
