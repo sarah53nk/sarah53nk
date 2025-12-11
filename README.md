@@ -36,15 +36,6 @@ I’m currently expanding my skills in Machine Learning and Data Analysis.
   <img src="https://img.shields.io/badge/Discord-%237289DA.svg?&style=flat&logo=discord&logoColor=white" />
 </a>
 
-<br><br>
-
-## 🟣 GitHub Stats
-<p align="center">
-
-  
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sarah53nk&show_icons=true&theme=radical&hide_border=true" height="160" />
-
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sarah53nk&layout=compact&theme=radical&hide_border=true" height="160" />
 
 </p>
 
