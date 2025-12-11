@@ -38,8 +38,6 @@ I’m currently expanding my skills in Machine Learning and Data Analysis.
 </p>
 
 <br><br>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=e310a4&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sara!;Welcome+to+my+GitHub+page.)](https://github.com/sarah53nk)
-
 <img src="https://github.com/sarah53nk/sarah53nk/raw/main/pink2.gif" width="1000" height="4" />
 <img src="https://github.com/sarah53nk/sarah53nk/raw/main/pink2.gif" width="1000" height="4" />
 
