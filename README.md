@@ -40,6 +40,8 @@ I’m currently expanding my skills in Machine Learning and Data Analysis.
 <br><br>
 <img src="https://github.com/sarah53nk/sarah53nk/raw/main/pink2.gif" width="1000" height="4" />
 <img src="https://github.com/sarah53nk/sarah53nk/raw/main/pink2.gif" width="1000" height="4" />
+![snake gif](https://github.com/sarah53nk/sarah53nk/blob/output/github-contribution-grid-snake.svg)
+
 
 <!--
 **sarah53nk/sarah53nk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
