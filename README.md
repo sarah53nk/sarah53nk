@@ -35,9 +35,13 @@ I’m currently expanding my skills in Machine Learning and Data Analysis.
 <a href="#" target="_blank">
   <img src="https://img.shields.io/badge/Discord-%237289DA.svg?&style=flat&logo=discord&logoColor=white" />
 </a>
-
-
 </p>
+
+<br><br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=e310a4&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sara!;Welcome+to+my+GitHub+page.)](https://github.com/sarah53nk)
+
+<img src="https://github.com/sarah53nk/sarah53nk/raw/main/pink2.gif" width="1000" height="4" />
+<img src="https://github.com/sarah53nk/sarah53nk/raw/main/pink2.gif" width="1000" height="4" />
 
 <!--
 **sarah53nk/sarah53nk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
