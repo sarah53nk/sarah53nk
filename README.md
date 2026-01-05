@@ -42,7 +42,7 @@ I’m currently expanding my skills in Machine Learning and Data Analysis.
 <img src="https://github.com/sarah53nk/sarah53nk/raw/main/pink2.gif" width="1000" height="4" />
 
 
-....
+
 
 <!--
 **sarah53nk/sarah53nk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
